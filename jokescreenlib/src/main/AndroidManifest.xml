@@ -3,7 +3,7 @@
     package="com.adja.apps.mohamednagy.jokescreenlib">
 
     <application>
-        <activity android:name=".JokeActivity"/>
+        <activity android:name=".JokeActivity" />
     </application>
 
 </manifest>

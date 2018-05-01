@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">jokeScreenLib</string>
+    <string name="btn_exit">Close</string>
 </resources>
+

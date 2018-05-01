@@ -48,7 +48,6 @@ android {
 
 dependencies {
     implementation fileTree(dir: 'libs', include: ['*.jar'])
-    implementation project(':javaLib')
     implementation project(':jokescreenlib')
     implementation 'com.android.support.constraint:constraint-layout:1.1.0'
     endpointsServer project(path: ':backend', configuration: 'endpoints')
