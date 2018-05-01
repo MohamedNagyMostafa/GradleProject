@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fit_dimen">8dp</dimen>
+    <dimen name="screen_wrapping_dimen">16dp</dimen>
+    <dimen name="extra_dimen">24dp</dimen>
+    <dimen name="image_vertical_dimen">220dp</dimen>
+</resources>
